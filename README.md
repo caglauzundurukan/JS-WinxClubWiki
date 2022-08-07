@@ -1,5 +1,6 @@
 # JS-WinxClubWiki
 I created a site where I introduced the characters of the Winx Club Cartoon Series using HTML, Bootstrap and Pure Javascript technologies.
+<br><br>
 -**Languages and technologies used in the project:**
 <br> <br>
 -Written using HTML, Bootstrap and Vanilla JavaScript.
